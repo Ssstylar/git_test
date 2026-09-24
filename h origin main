@@ -1,0 +1,17 @@
+[33mcommit a39d1beafdebd91b3879b1f0b853a143d9b072a4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Selasie Semador <310687794+Ssstylar@users.noreply.github.com>
+Date:   Thu Sep 24 13:13:37 2026 +0000
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 0d7eb148e48e38368d5b8d2a16f97ca9b92e329c[m
+Author: Selasie Semador <310687794+Ssstylar@users.noreply.github.com>
+Date:   Thu Sep 24 13:03:17 2026 +0000
+
+    Add hello_word.txt
+
+[33mcommit a7fbad91077d3e8fd6ce74841254efc0cff62224[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Selasie Semador <310687794+Ssstylar@users.noreply.github.com>
+Date:   Thu Sep 24 12:54:18 2026 +0000
+
+    Initial commit
